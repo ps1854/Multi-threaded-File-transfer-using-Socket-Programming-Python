@@ -5,6 +5,8 @@ Client program can command six different functions to the server. The functions 
 
 ## ARCHITECTURE AND DESIGN
 
+![Architecture](https://user-images.githubusercontent.com/89296568/152753017-1f8aecc7-ca67-431c-ac9b-4677c809e66d.png)
+
 ## IMPLEMENTATION
 
 ### Server Program
