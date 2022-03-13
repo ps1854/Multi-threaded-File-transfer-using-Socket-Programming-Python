@@ -70,7 +70,7 @@ Open a linux terminal. Run the server file
 ```
 python3 server.py
 ```
-IP address and PORT number will printed to the terminal.
+IP address and PORT number will printed be to the terminal.
 
 Run the client file in a new terminal.
 ```
