@@ -41,7 +41,7 @@ def handle_client(conn, addr):
         cmd = data[0]
 
 ```
-The server serves according to the client rewuierments.
+The server serves according to the client requirements.
 
 
 ### Client Program
